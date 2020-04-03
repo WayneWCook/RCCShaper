@@ -8,6 +8,7 @@
 public class Circle extends Shape {
     // Attributes
     private double radius;
+    // Construct a Circle to save radius and calculate areas.
     Circle(double radius) {
         this.radius = radius;
     }
