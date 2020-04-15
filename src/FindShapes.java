@@ -13,7 +13,9 @@ public class FindShapes {
         Circle circle = new Circle(3);
         Rhombus rhombus = new Rhombus(5, 0.5);
         Parallelogam parallelogam = new Parallelogam(3,5,.45);
+        Hexagon hexagon = new Hexagon(7);
         System.out.println("Rectangle are is: " + rec1.getArea());
+        System.out.println("Hexagon area is: " + hexagon.getArea());
         System.out.println("Parallelogram area is: " + parallelogam.getArea());
         System.out.println("Square area is: "+ square.getArea());
         System.out.println("The sum can go in either direction!");
