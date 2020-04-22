@@ -2,7 +2,7 @@
 Triangle.java
 22 April 2020
 Colin Grebenstein
-Adds the ability to find the area or perimeter
+Adds the ability to find the area or perimeter of a triangle
  */
 public class Triangle extends Shape {
 
